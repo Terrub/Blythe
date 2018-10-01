@@ -3,7 +3,7 @@
 ## Notes: Event hook device thingy
 ## Author: Terrub le Programmer
 ## Version: 0.0.1
-## Dependencies: SynTechCore
+## Dependencies: Walter
 ## SavedVariables: Blythe_savedVariables
 
 Blythe.lua
